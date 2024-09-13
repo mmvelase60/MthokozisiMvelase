@@ -3,12 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET MVC Application (Tent Hiring Application)</b>
-  - [DUT Final Year Project](DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT)
-  - [Tetris Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [DUT Final Year Project](DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT) 
 - <b>Full Stack Web App (Angular 16, TypeScript, C#, HTML, CSS)</b>
   - [Company Printers App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>C# (.NET WebForms Applications)</b>
-  - [Campany Printers](https://github.com/joshmadakor1/Sentinel-Lab) 
+  - [Campany Printers](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>C# (.NET Windows Presentation Foundation(WPF) Applications)</b>
+  - [Tetris Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Excel (Monitoring Applications)</b>
   - [Role Based Login](https://github.com/joshmadakor1/EncrypterPOC)
 <h2>📺 Popular YouTube Videos</h2>
