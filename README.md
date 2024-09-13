@@ -4,20 +4,13 @@
 
 - <b>C# (.NET MVC Application (Tent Hiring Application)</b>
   - [DUT Final Year Project](DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Tetris Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Full Stack Web App (Angular 16, TypeScript, C#, HTML, CSS)</b>
+  - [Company Printers App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>C# (.NET WebForms Applications)</b>
+  - [Campany Printers](https://github.com/joshmadakor1/Sentinel-Lab) 
+- <b>Excel (Monitoring Applications)</b>
+  - [Role Based Login](https://github.com/joshmadakor1/EncrypterPOC)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
