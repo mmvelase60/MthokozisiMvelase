@@ -5,20 +5,18 @@
 - <b>C# (.NET MVC Application (Tent Hiring Application)</b>
   - [DUT Final Year Project](https://github.com/mmvelase60/mmvelase60/tree/main/DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT) 
 - <b>Full Stack Web App (Angular 16, TypeScript, C#, HTML, CSS)</b>
-  - [Company Printers App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Company Printers App](https://github.com/mmvelase60/Projects/blob/main/CompanyPrinters(Angular16App)) 
 - <b>C# (.NET WebForms Applications)</b>
-  - [Campany Printers](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Campany Printers](https://github.com/mmvelase60/Projects/blob/main/CompanyPrinters(Web%20Form).rar)
 - <b>C# (.NET Windows Presentation Foundation(WPF) Applications)</b>
-  - [Tetris Game](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Tetris Game](https://github.com/mmvelase60/mmvelase60/tree/main/TetrisGMbyMM01/TetrisGMbyMM01)
 - <b>Excel (Monitoring Applications)</b>
   - [Role Based Login](https://github.com/joshmadakor1/EncrypterPOC)
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to Book Your Smart ID and Passport Applications Online or at SA Bank Branches](https://youtu.be/CZT3cgIVdew)
+- [Top 10 Best Places to Visit in Africa](https://youtu.be/k-A92K1hAtQ)
+- [10 ChatGPT prompts to land your dream job in 30 days](https://youtu.be/wKr2U-gtHJ8)
 
 <h2> 🤳 Connect with me:</h2>
 
