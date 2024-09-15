@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET MVC Application (Tent Hiring Application)</b>
-  - [DUT Final Year Project]([DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT](https://github.com/mmvelase60/mmvelase60/blob/main/DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT/FINALBRIGHTPROJECT.sln)) 
+  - [DUT Final Year Project][([DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT](https://github.com/mmvelase60/mmvelase60/blob/main/DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT/FINALBRIGHTPROJECT.sln))](https://github.com/mmvelase60/mmvelase60/tree/main/DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT) 
 - <b>Full Stack Web App (Angular 16, TypeScript, C#, HTML, CSS)</b>
   - [Company Printers App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>C# (.NET WebForms Applications)</b>
