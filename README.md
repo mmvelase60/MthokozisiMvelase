@@ -16,7 +16,7 @@
 <h2>☁️ Cloud Engineer</h2>
 
 - <b>Project 1</b>
-  - [Explore different Azure Storage services and Delete or Copy Files from Azure Blob storage by Using SSIS Package](https://github.com/mmvelase60/mmvelase60/tree/main/DUT-FINAL-YEAR-PROJECTS/FINALBRIGHTPROJECT) 
+  - [Explore different Azure Storage services and Delete or Copy Files from Azure Blob storage by Using SSIS Package](https://github.com/mmvelase60/azure-storage-ssis-blob-management/tree/main)
 - <b>Project 2</b>
   - [Manage Azure resources and monitor costs by creating automation tasks](https://github.com/mmvelase60/Projects/blob/main/CompanyPrinters(Angular16App)) 
 - <b>project 3</b>
