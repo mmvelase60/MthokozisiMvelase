@@ -21,7 +21,7 @@
 
   - [Process Blob Files Automatically using an Azure Function with Blob Trigger](https://github.com/mmvelase60/azure-function-blob-trigger-automation/tree/main)
 
-  - [Send push notifications to specific Android apps using Azure Notification Hubs](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Send push notifications to specific Android apps using Azure Notification Hubs](https://github.com/mmvelase60/azure-notification-hubs-android-push/tree/main)
 
 <h2>👨‍🎓 Certificate </h2>
 
