@@ -23,7 +23,7 @@
 
   - [Send push notifications to specific Android apps using Azure Notification Hubs](https://github.com/mmvelase60/azure-notification-hubs-android-push/tree/main)
 
-<h2>☁️ PowerBI Engineer</h2>
+<h2>📊 Data Analytics and Power BI</h2>
 
   - [Connecting data source and cleaning data](https://github.com/mmvelase60/azure-storage-ssis-blob-management/tree/main)
 
