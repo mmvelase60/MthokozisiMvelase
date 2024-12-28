@@ -31,6 +31,24 @@
 
 <h2>👨‍🎓 Certificate </h2>
 
+- [Microsoft Certified: Azure Fundamentals](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+
+- [Microsoft Certified: Azure Administrator Associate](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+ 
+- [Microsoft Certified: Azure IoT Developer Specialty](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+   
+- [Microsoft Certified: Azure AI Engineer Associate](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+
+- [Data Analytics and PowerBI](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main) 
+
+- [Microsoft Certified: Microsoft 365 Fundamentals](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+
+- [Huawei 5G Certificate](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+
+- [Cisco IoT Certificate](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+
+- [Microsoft Digital Literacy Certificate](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main)
+    
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to Book Your Smart ID and Passport Applications Online or at SA Bank Branches](https://youtu.be/CZT3cgIVdew)
