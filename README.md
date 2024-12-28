@@ -25,7 +25,7 @@
 
 <h2>📊 Data Analytics and Power BI</h2>
 
-  - [Connecting data source and cleaning data](https://github.com/mmvelase60/azure-storage-ssis-blob-management/tree/main)
+  - [Connecting data source and cleaning data](https://github.com/mmvelase60/DataConnect-Clean/tree/main)
 
   - [Data visualization using Power BI Dashboard](https://github.com/mmvelase60/azure-resource-management-automation/tree/main) 
 
