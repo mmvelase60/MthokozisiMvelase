@@ -27,7 +27,7 @@
 
   - [Connecting data source and cleaning data](https://github.com/mmvelase60/DataConnect-Clean/tree/main)
 
-  - [Data visualization using Power BI Dashboard](https://github.com/mmvelase60/azure-resource-management-automation/tree/main) 
+  - [Data visualization using Power BI Dashboard](https://github.com/mmvelase60/powerbi-data-visualization-dashboard/tree/main) 
 
 <h2>👨‍🎓 Certificate </h2>
 
